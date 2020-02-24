@@ -5,7 +5,7 @@ NoteZ- A notes-creating app in Django
 * Start off by forking this repository and cloning it to get your local copy. Make sure you run this in git bash.
 
   ```bash
-  $ git clone https://github.com/sagar-wal/Email-Authentication.git
+  $ git clone https://github.com/sagar-wal/Notes_Creator.git
   ```
 * If you prefer a virtual-environment (venv) you should have pip and venv installed.
 
