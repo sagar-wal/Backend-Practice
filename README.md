@@ -31,7 +31,7 @@ NoteZ- A notes-creating app in Django
   ``` 
   You can watch this video on how to install venv : <a href="https://www.youtube.com/watch?v=mqlCk_WCK2E">https://www.youtube.com/watch?v=mqlCk_WCK2E</a>
   
-
+  The source code is contained in the 'note_creator' directory. Open that directory before running the forthcoming commands.
  * Initialise the database
    
    ```bash
